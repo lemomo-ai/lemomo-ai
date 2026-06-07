@@ -1,3 +1,5 @@
+<img width="1500" height="500" alt="image" src="https://github.com/user-attachments/assets/d3f020d8-b4bc-4e38-aa05-17e1af5f6065" />
+
 **Building practical tools for sharper AI work.**
 
 Staying curious in the AI era. I build open-source tools to help more people explore what's possible — and turn that exploration into sharper, more trustworthy work.
@@ -9,6 +11,7 @@ Staying curious in the AI era. I build open-source tools to help more people exp
 Six tools and counting. Small, sharp things for serious AI-assisted work.
 
 🛰️ **Codex Radar** — How healthy is your Codex workflow really? It runs a 9-dimension review, backs every finding with evidence, and hands you a professional report.
+
 <sub>[repo](https://github.com/LeifDiao/codex-radar) · [page](https://leifdiao.github.io/codex-radar/)</sub>
 
 📡 **Claude Radar** — Curious where your Claude Code workflow leaks time? It scores nine dimensions, turns weak spots into clear fixes, and writes it all up for you.
