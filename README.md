@@ -1,5 +1,5 @@
 
-### Building practical tools for sharper AI work.**
+### Building practical tools for sharper AI work.
 
 Staying curious in the AI era. I build open-source tools to help more people explore what's possible — and turn that exploration into sharper, more trustworthy work.<br>
 <sub><b>Curiosity</b> › ego &nbsp;·&nbsp; <b>Thinking</b> › coding &nbsp;·&nbsp; <b>Doing</b> › watching &nbsp;·&nbsp; <b>Sharing</b> › gatekeeping</sub>
