@@ -12,7 +12,7 @@ Six tools and counting. Small, sharp things for serious AI-assisted work.
 
 **[Codex Radar](https://github.com/LeifDiao/codex-radar)** <br> How healthy is your Codex workflow really? It runs a 9-dimension review, backs every finding with evidence, and hands you a professional report.
 
-**[Claude Radar](https://github.com/LeifDiao/claude-radar)** <br> Curious where your Claude Code workflow leaks time? It scores nine dimensions, turns weak spots into clear fixes, and writes it all up for you.
+**[Claude Radar](https://github.com/LeifDiao/claude-radar)** <br> Curious where your Claude Code workflow leaks time? It scores nine dimensions, turns weak spots into clear fixes, and writes it up into one clear report.
 
 **[Demand Radar](https://github.com/LeifDiao/demand-radar)** <br> Is your idea actually wanted or already overdone? It weighs the evidence, red-teams your assumptions, and hands you a verdict and a first move.
 
@@ -20,7 +20,7 @@ Six tools and counting. Small, sharp things for serious AI-assisted work.
 
 **[Doc Atlas](https://github.com/LeifDiao/doc-atlas)** <br> Drowning in scattered documents? It merges them into one board, distills the key points, and keeps every source traceable.
 
-**[Claude Mood](https://github.com/LeifDiao/claude-mood)** <br> Forgotten what half your Claude Code windows are doing? It tracks each live session's progress, context usage, and the mood it's in — all in one panel.
+**[Claude Mood](https://github.com/LeifDiao/claude-mood)** <br> Forgotten what half your Claude Code windows are doing? It tracks each live session's progress, context usage, and current mood, all in one panel.
 
 ---
 
