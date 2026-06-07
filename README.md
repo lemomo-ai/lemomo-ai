@@ -4,7 +4,7 @@ Staying curious in the AI era. I build open-source tools to help more people exp
 
 <sub><b>Curiosity</b> › ego &nbsp;·&nbsp; <b>Thinking</b> › coding &nbsp;·&nbsp; <b>Doing</b> › watching &nbsp;·&nbsp; <b>Sharing</b> › gatekeeping</sub>
 
-## Projects
+### Projects
 
 Six tools and counting. Small, sharp things for serious AI-assisted work.
 
@@ -26,11 +26,11 @@ Six tools and counting. Small, sharp things for serious AI-assisted work.
 🎛️ **Claude Mood** — Forgotten what half your Claude Code windows are doing? It tracks each live session's progress, context usage, and the mood it's in — all in one panel.
 <sub>[repo](https://github.com/LeifDiao/claude-mood) · [page](https://leifdiao.github.io/claude-mood/)</sub>
 
-## Coming Soon
+### Coming Soon
 
 **More tools for serious AI work** — more open-source utilities for serious AI-assisted work: agent workflow diagnostics, product judgment, research automation, document intelligence, and practical field notes.
 
-## Follow Along
+### Follow Along
 
 <a href="https://x.com/lemomo_ai">X · @lemomo_ai</a>
 
