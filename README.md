@@ -21,8 +21,6 @@ Six tools and counting. Small, sharp things for serious AI-assisted work.
 
 **[Doc Atlas](https://github.com/LeifDiao/doc-atlas)** <br> Drowning in scattered documents? It merges them into one board, distills the key points, and keeps every source traceable.
 
-**[Claude Mood](https://github.com/LeifDiao/claude-mood)** <br> Forgotten what half your Claude Code windows are doing? It tracks each live session's progress, context usage, and current mood, all in one panel.
-
 ---
 
 ### Follow Along
