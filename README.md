@@ -9,7 +9,7 @@ Staying curious in the AI era. I build open-source tools to help more people exp
 
 ### Projects
 
-Five tools and counting. Small, sharp things for serious AI-assisted work — every repo optimized by Fable 5 and GPT 5.6 Sol.
+Five tools and counting. Small, sharp things for serious AI-assisted work — every repo optimized by <b>Fable 5</b> and <b>GPT 5.6 Sol</b>.
 
 **[Codex Radar](https://github.com/LeifDiao/codex-radar)** <br> How healthy is your Codex workflow really? It runs a 9-dimension review, backs every finding with evidence, and hands you a professional report.
 
