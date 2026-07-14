@@ -21,6 +21,8 @@ Five tools and counting. Small, sharp things for serious AI-assisted work — ev
 
 **[Doc Atlas](https://github.com/LeifDiao/doc-atlas)** <br> Drowning in scattered documents? It merges them into one board, distills the key points, and keeps every source traceable.
 
+**[Grok Privacy Guard](https://github.com/LeifDiao/doc-atlas)** <br> Prevents your repository from being uploaded without your knowledge, and detects the upload state on every launch and alerts you.
+
 ---
 
 ### Follow Along
