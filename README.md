@@ -5,7 +5,7 @@
 ### 为更锐利的 AI 工作，做趁手的小工具。<br>Building practical tools for sharper AI work.
 
 <a href="https://x.com/lemomo_ai"><img src="https://img.shields.io/badge/X-@lemomo__ai-000000?style=for-the-badge&logo=x&logoColor=white" alt="X @lemomo_ai"></a>
-<a href="https://github.com/lemomo-ai?tab=repositories"><img src="https://img.shields.io/badge/Open_source-7_projects-d4b064?style=for-the-badge&logo=github&logoColor=white" alt="7 open-source projects"></a>
+<a href="https://github.com/lemomo-ai?tab=repositories"><img src="https://img.shields.io/badge/Open_source-6_projects-d4b064?style=for-the-badge&logo=github&logoColor=white" alt="6 open-source projects"></a>
 
 在 AI 时代保持好奇。我做开源工具，帮更多人探索 AI 的可能性——并把这份探索，变成更锐利、更可信的工作成果。<br>
 Staying curious in the AI era. I build open-source tools to help more people explore what's possible — and turn that exploration into sharper, more trustworthy work.
@@ -31,21 +31,21 @@ Staying curious in the AI era. I build open-source tools to help more people exp
 
 ## 🧰 项目 · Projects
 
-六件小而锋利的工具，为认真的 AI 协作而生——每个仓库都经 <b>Fable 5</b> 与 <b>GPT 5.6 Sol</b> 联合打磨。<br>
-Six small, sharp tools for serious AI-assisted work — every repo optimized by <b>Fable 5</b> and <b>GPT 5.6 Sol</b>.
+五件小而锋利的工具，为认真的 AI 协作而生——每个仓库都经 <b>Fable 5</b> 与 <b>GPT 5.6 Sol</b> 联合打磨；外加一个我参与贡献的项目。<br>
+Five small, sharp tools for serious AI-assisted work — every repo optimized by <b>Fable 5</b> and <b>GPT 5.6 Sol</b> — plus one project I contribute to.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**[Codex Radar](https://github.com/lemomo-ai/codex-radar)** &nbsp;<img src="https://img.shields.io/github/stars/lemomo-ai/codex-radar?style=flat-square&label=%E2%98%85&color=d4b064" alt="stars"><br>
+**[Codex Radar](https://github.com/lemomo-ai/codex-radar)** &nbsp;<img src="https://img.shields.io/github/stars/lemomo-ai/codex-radar?style=flat-square&label=%E2%98%85&color=d4b064" alt="stars" align="top"><br>
 你的 Codex 工作流到底健不健康？9 个维度全面体检，每条结论都有证据支撑，最后交给你一份专业报告。<br>
 <sub>How healthy is your Codex workflow really? A 9-dimension review, every finding backed by evidence, delivered as a professional report.</sub>
 
 </td>
 <td width="50%" valign="top">
 
-**[Claude Radar](https://github.com/lemomo-ai/claude-radar)** &nbsp;<img src="https://img.shields.io/github/stars/lemomo-ai/claude-radar?style=flat-square&label=%E2%98%85&color=d4b064" alt="stars"><br>
+**[Claude Radar](https://github.com/lemomo-ai/claude-radar)** &nbsp;<img src="https://img.shields.io/github/stars/lemomo-ai/claude-radar?style=flat-square&label=%E2%98%85&color=d4b064" alt="stars" align="top"><br>
 想知道你的 Claude Code 工作流在哪里漏时间？9 个维度逐项打分，把短板变成明确可改的动作，汇成一份清晰报告。<br>
 <sub>Where does your Claude Code workflow leak time? It scores nine dimensions and turns weak spots into clear fixes in one report.</sub>
 
@@ -54,14 +54,14 @@ Six small, sharp tools for serious AI-assisted work — every repo optimized by 
 <tr>
 <td width="50%" valign="top">
 
-**[Demand Radar](https://github.com/lemomo-ai/demand-radar)** &nbsp;<img src="https://img.shields.io/github/stars/lemomo-ai/demand-radar?style=flat-square&label=%E2%98%85&color=d4b064" alt="stars"><br>
+**[Demand Radar](https://github.com/lemomo-ai/demand-radar)** &nbsp;<img src="https://img.shields.io/github/stars/lemomo-ai/demand-radar?style=flat-square&label=%E2%98%85&color=d4b064" alt="stars" align="top"><br>
 你的点子是真需求，还是早就烂大街？它称量证据、红队拷问你的假设，最后给你一个裁决和第一步行动。<br>
 <sub>Is your idea actually wanted or already overdone? It weighs the evidence, red-teams your assumptions, and hands you a verdict and a first move.</sub>
 
 </td>
 <td width="50%" valign="top">
 
-**[GitHub Pick](https://github.com/lemomo-ai/github-pick)** &nbsp;<img src="https://img.shields.io/github/stars/lemomo-ai/github-pick?style=flat-square&label=%E2%98%85&color=d4b064" alt="stars"><br>
+**[GitHub Pick](https://github.com/lemomo-ai/github-pick)** &nbsp;<img src="https://img.shields.io/github/stars/lemomo-ai/github-pick?style=flat-square&label=%E2%98%85&color=d4b064" alt="stars" align="top"><br>
 想快速摸清一个领域有什么好东西？它扫描开源全景、挑出真正能打的项目，铺成一张一眼可读的看板。<br>
 <sub>Want to know what's good in a field? It scans the open-source landscape, ranks the standout projects, and lays them out on one board.</sub>
 
@@ -70,16 +70,16 @@ Six small, sharp tools for serious AI-assisted work — every repo optimized by 
 <tr>
 <td width="50%" valign="top">
 
-**[Doc Atlas](https://github.com/lemomo-ai/doc-atlas)** &nbsp;<img src="https://img.shields.io/github/stars/lemomo-ai/doc-atlas?style=flat-square&label=%E2%98%85&color=d4b064" alt="stars"><br>
+**[Doc Atlas](https://github.com/lemomo-ai/doc-atlas)** &nbsp;<img src="https://img.shields.io/github/stars/lemomo-ai/doc-atlas?style=flat-square&label=%E2%98%85&color=d4b064" alt="stars" align="top"><br>
 被一堆散落的文档淹没？它把它们合成一块面板，炼出关键结论，每个来源都可追溯。<br>
 <sub>Drowning in scattered documents? It merges them into one board, distills the key points, and keeps every source traceable.</sub>
 
 </td>
 <td width="50%" valign="top">
 
-**[Grok Privacy Guard](https://github.com/lemomo-ai/grok-privacy-guard)** &nbsp;<img src="https://img.shields.io/github/stars/lemomo-ai/grok-privacy-guard?style=flat-square&label=%E2%98%85&color=d4b064" alt="stars"><br>
-防止你的仓库在不知情时被上传，每次启动都检测上传状态，发现问题立刻提醒你。<br>
-<sub>Prevents your repository from being uploaded without your knowledge: it checks the upload state on every launch and alerts you.</sub>
+**[Open MCP Apps](https://github.com/2nd1st/open-mcp-apps)** &nbsp;<img src="https://img.shields.io/github/stars/2nd1st/open-mcp-apps?style=flat-square&label=%E2%98%85&color=d4b064" alt="stars" align="top"> &nbsp;<sub>贡献者 · Contributor</sub><br>
+持久、可交互的 MCP 应用：AI 做一次，你和它都能反复用，数据比对话活得更久。附引擎、22 个应用的应用商店，以及托管版 openmcp.app。<br>
+<sub>Persistent, interactive MCP Apps for any MCP host: the AI builds an app once, you both reuse it, and the data outlives the conversation. Ships an engine, a 22-app store and a hosted version at openmcp.app.</sub>
 
 </td>
 </tr>
