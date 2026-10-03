@@ -5,7 +5,7 @@
 ### 为更锐利的 AI 工作，做趁手的小工具。<br>Building practical tools for sharper AI work.
 
 <a href="https://x.com/lemomo_ai"><img src="https://img.shields.io/badge/X-@lemomo__ai-000000?style=for-the-badge&logo=x&logoColor=white" alt="X @lemomo_ai"></a>
-<a href="https://github.com/lemomo-ai?tab=repositories"><img src="https://img.shields.io/badge/Open_source-6_projects-d4b064?style=for-the-badge&logo=github&logoColor=white" alt="6 open-source projects"></a>
+<a href="https://github.com/lemomo-ai?tab=repositories"><img src="https://img.shields.io/badge/Open_source-7_projects-d4b064?style=for-the-badge&logo=github&logoColor=white" alt="7 open-source projects"></a>
 
 在 AI 时代保持好奇。我做开源工具，帮更多人探索 AI 的可能性——并把这份探索，变成更锐利、更可信的工作成果。<br>
 Staying curious in the AI era. I build open-source tools to help more people explore what's possible — and turn that exploration into sharper, more trustworthy work.
@@ -14,6 +14,18 @@ Staying curious in the AI era. I build open-source tools to help more people exp
 <b>Curiosity</b> › ego &nbsp;·&nbsp; <b>Thinking</b> › coding &nbsp;·&nbsp; <b>Doing</b> › watching &nbsp;·&nbsp; <b>Sharing</b> › gatekeeping
 
 </div>
+
+---
+
+## 🍋 New · lemo-mod
+
+<a href="https://lemomo-ai.github.io/lemo-mod/"><img src="assets/lemo-mod-banner.png" alt="lemo-mod: 21 styles for Claude Code"></a>
+
+**一键给 Claude Code 换上新风格：21 套风格，终端和桌面 App 都能用。** 不只换皮：面板、用量横条、消息编号、朗读、番茄钟、会话小结等 16 个 mod，装上时只开外观，其余功能在「安全」页按需打开。<br>
+**Re-skin Claude Code in one click: 21 styles for the terminal and the desktop app.** More than a skin: 16 mods, including a panel, a usage band, message numbers, speech, a focus timer and session recaps. Only looks are on at install; turn on the rest in the Safety page when you need it.
+
+<a href="https://lemomo-ai.github.io/lemo-mod/"><img src="https://img.shields.io/badge/▶_See_every_style-看风格库-f2cf1d?style=for-the-badge" alt="See every style"></a>
+<a href="https://github.com/lemomo-ai/lemo-mod"><img src="https://img.shields.io/github/stars/lemomo-ai/lemo-mod?style=for-the-badge&logo=github&label=lemo-mod&color=d4b064" alt="lemo-mod on GitHub"></a>
 
 ---
 
@@ -31,8 +43,8 @@ Staying curious in the AI era. I build open-source tools to help more people exp
 
 ## 🧰 项目 · Projects
 
-五件小而锋利的工具，为认真的 AI 协作而生——每个仓库都经 <b>Fable 5</b> 与 <b>GPT 5.6 Sol</b> 联合打磨；外加一个我参与贡献的项目。<br>
-Five small, sharp tools for serious AI-assisted work — every repo optimized by <b>Fable 5</b> and <b>GPT 5.6 Sol</b> — plus one project I contribute to.
+五个小而锋利的工具，为认真的 AI 协作而做；外加一个我参与贡献的项目。<br>
+Five small, sharp tools for serious AI-assisted work, plus one project I contribute to.
 
 <table>
 <tr>
