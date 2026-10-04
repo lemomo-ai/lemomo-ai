@@ -1,109 +1,61 @@
-<div align="center">
+<a href="https://x.com/lemomo_ai"><img src="assets/header.svg" width="100%" alt="Lemomo · 帮每个人都能用好 AI，让每一颗星星都能闪耀。Helping everyone use AI well, so every star can shine."></a>
 
-# Hi, I'm Lemomo 👋
+<b>程序员，独立开发者。致力于分享真正好用的方法做成开源项目，让每个人都能用 AI 得到更好的结果。</b><br>
+<b>Programmer and indie developer. I turn methods that truly work into open-source projects, so everyone can get better results with AI.</b>
 
-### 为更锐利的 AI 工作，做趁手的小工具。<br>Building practical tools for sharper AI work.
+<a href="https://github.com/lemomo-ai?tab=repositories"><img src="https://img.shields.io/github/stars/lemomo-ai?style=for-the-badge&amp;logo=github&amp;label=total%20stars&amp;color=d4b064" alt="total stars"></a>
+<a href="#-lemo-opuscar"><img src="https://img.shields.io/badge/Open_source-4_projects-f2cf1d?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="4 open-source projects"></a>
+<a href="https://github.com/lemomo-ai?tab=followers"><img src="https://img.shields.io/github/followers/lemomo-ai?style=for-the-badge&amp;logo=github&amp;label=followers&amp;color=fe6b3d" alt="followers"></a>
+<a href="https://x.com/lemomo_ai"><img src="https://img.shields.io/badge/@lemomo__ai-000000?style=for-the-badge&amp;logo=x&amp;logoColor=white" alt="X"></a>
 
-<a href="https://x.com/lemomo_ai"><img src="https://img.shields.io/badge/X-@lemomo__ai-000000?style=for-the-badge&logo=x&logoColor=white" alt="X @lemomo_ai"></a>
-<a href="https://github.com/lemomo-ai?tab=repositories"><img src="https://img.shields.io/badge/Open_source-7_projects-d4b064?style=for-the-badge&logo=github&logoColor=white" alt="7 open-source projects"></a>
+<img src="assets/divider-opuscar.svg" width="100%" alt="">
 
-在 AI 时代保持好奇。我做开源工具，帮更多人探索 AI 的可能性——并把这份探索，变成更锐利、更可信的工作成果。<br>
-Staying curious in the AI era. I build open-source tools to help more people explore what's possible — and turn that exploration into sharper, more trustworthy work.
+## 🎬 Lemo-Opuscar
 
-<b>好奇心</b> › 自尊心 &nbsp;·&nbsp; <b>思考</b> › 敲码 &nbsp;·&nbsp; <b>动手</b> › 围观 &nbsp;·&nbsp; <b>分享</b> › 藏私<br>
-<b>Curiosity</b> › ego &nbsp;·&nbsp; <b>Thinking</b> › coding &nbsp;·&nbsp; <b>Doing</b> › watching &nbsp;·&nbsp; <b>Sharing</b> › gatekeeping
+<a href="https://github.com/lemomo-ai/lemo-opuscar"><img src="assets/card-opuscar.svg" width="100%" alt="Lemo-Opuscar：选个风格，agent 用代码拍成短片。"></a>
 
-</div>
-
----
-
-## 🍋 New · lemo-mod
-
-<a href="https://lemomo-ai.github.io/lemo-mod/"><img src="assets/lemo-mod-banner.png" alt="lemo-mod: 21 styles for Claude Code"></a>
-
-**一键给 Claude Code 换上新风格：21 套风格，终端和桌面 App 都能用。** 不只换皮：面板、用量横条、消息编号、朗读、番茄钟、会话小结等 16 个 mod，装上时只开外观，其余功能在「安全」页按需打开。<br>
-**Re-skin Claude Code in one click: 21 styles for the terminal and the desktop app.** More than a skin: 16 mods, including a panel, a usage band, message numbers, speech, a focus timer and session recaps. Only looks are on at install; turn on the rest in the Safety page when you need it.
-
-<a href="https://lemomo-ai.github.io/lemo-mod/"><img src="https://img.shields.io/badge/▶_See_every_style-看风格库-f2cf1d?style=for-the-badge" alt="See every style"></a>
-<a href="https://github.com/lemomo-ai/lemo-mod"><img src="https://img.shields.io/github/stars/lemomo-ai/lemo-mod?style=for-the-badge&logo=github&label=lemo-mod&color=d4b064" alt="lemo-mod on GitHub"></a>
-
----
-
-## 🎬 New · Lemo-Opuscar
-
-<a href="https://lemomo-ai.github.io/lemo-opuscar/"><img src="assets/lemo-opuscar-banner.png" alt="Lemo-Opuscar: 43 film styles"></a>
-
-**43 种影片风格，每种都配一支我用 Claude Opus 5.5 纯代码做出来的短片。** 附风格提示词、导演和技术指南：选一个风格，说出你想拍的内容，剩下交给 agent。<br>
-**43 film styles, each with a short film I made entirely in code with Claude Opus 5.5.** Style prompts plus directing and technique guides: pick a style, say what you want to make, and let your agent direct.
+<b>43 种影片风格，非视频模型，用 Claude 纯代码生成短片。</b>提供风格提示词、导演提示词与技术指南。选一个风格，说出你想拍的内容，剩下交给 agent。更多风格持续更新中。<br>
+<b>43 film styles, no video model: Claude makes short films in pure code.</b> With style, director and technical guides: pick a style, say what to shoot, and let your agent do the rest.
 
 <a href="https://lemomo-ai.github.io/lemo-opuscar/"><img src="https://img.shields.io/badge/▶_Watch_the_gallery-看图鉴-8e1b1b?style=for-the-badge" alt="Watch the gallery"></a>
-<a href="https://github.com/lemomo-ai/lemo-opuscar"><img src="https://img.shields.io/github/stars/lemomo-ai/lemo-opuscar?style=for-the-badge&logo=github&label=Lemo-Opuscar&color=d4b064" alt="Lemo-Opuscar on GitHub"></a>
+<a href="https://github.com/lemomo-ai/lemo-opuscar"><img src="https://img.shields.io/github/stars/lemomo-ai/lemo-opuscar?style=for-the-badge&amp;logo=github&amp;label=Lemo-Opuscar&amp;color=d4b064" alt="Lemo-Opuscar on GitHub"></a>
 
----
+<img src="assets/divider-mod.svg" width="100%" alt="">
 
-## 🧰 项目 · Projects
+## 🍋 lemo-mod
 
-五个小而锋利的工具，为认真的 AI 协作而做；外加一个我参与贡献的项目。<br>
-Five small, sharp tools for serious AI-assisted work, plus one project I contribute to.
+<a href="https://github.com/lemomo-ai/lemo-mod"><img src="assets/card-mod.svg" width="100%" alt="lemo-mod：21种UI自选，搭配整套安全实用功能。"></a>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<b>一键给 Claude Code 换上新风格：21 套风格，终端和桌面 App 都能用。</b>不只换皮：面板、用量横条、消息编号、写周报、番茄钟、会话小结等 16 个 mod，按需打开。更多功能持续更新中。<br>
+<b>Re-skin Claude Code in one click: 21 styles for the terminal and the desktop app.</b> Plus 16 mods like panels, usage bars, weekly reports, a focus timer and session recaps, on when needed.
 
-**[Codex Radar](https://github.com/lemomo-ai/codex-radar)** &nbsp;<img src="https://img.shields.io/github/stars/lemomo-ai/codex-radar?style=flat-square&label=%E2%98%85&color=d4b064" alt="stars" align="top"><br>
-你的 Codex 工作流到底健不健康？9 个维度全面体检，每条结论都有证据支撑，最后交给你一份专业报告。<br>
-<sub>How healthy is your Codex workflow really? A 9-dimension review, every finding backed by evidence, delivered as a professional report.</sub>
+<a href="https://lemomo-ai.github.io/lemo-mod/"><img src="https://img.shields.io/badge/▶_See_every_style-看风格库-f2cf1d?style=for-the-badge" alt="See every style"></a>
+<a href="https://github.com/lemomo-ai/lemo-mod"><img src="https://img.shields.io/github/stars/lemomo-ai/lemo-mod?style=for-the-badge&amp;logo=github&amp;label=lemo-mod&amp;color=d4b064" alt="lemo-mod on GitHub"></a>
 
-</td>
-<td width="50%" valign="top">
+<img src="assets/divider-wake.svg" width="100%" alt="">
 
-**[Claude Radar](https://github.com/lemomo-ai/claude-radar)** &nbsp;<img src="https://img.shields.io/github/stars/lemomo-ai/claude-radar?style=flat-square&label=%E2%98%85&color=d4b064" alt="stars" align="top"><br>
-想知道你的 Claude Code 工作流在哪里漏时间？9 个维度逐项打分，把短板变成明确可改的动作，汇成一份清晰报告。<br>
-<sub>Where does your Claude Code workflow leak time? It scores nine dimensions and turns weak spots into clear fixes in one report.</sub>
+## 📸 lemo-wake
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<a href="https://github.com/lemomo-ai/lemo-wake"><img src="assets/card-wake.svg" width="100%" alt="lemo-wake：把你的照片叫醒。"></a>
 
-**[Demand Radar](https://github.com/lemomo-ai/demand-radar)** &nbsp;<img src="https://img.shields.io/github/stars/lemomo-ai/demand-radar?style=flat-square&label=%E2%98%85&color=d4b064" alt="stars" align="top"><br>
-你的点子是真需求，还是早就烂大街？它称量证据、红队拷问你的假设，最后给你一个裁决和第一步行动。<br>
-<sub>Is your idea actually wanted or already overdone? It weighs the evidence, red-teams your assumptions, and hands you a verdict and a first move.</sub>
+<b>把一张图交给Agent，叫醒他，就能拿到一段精美动图。</b>照片、人像、海报、插画、Logo、图表、表情包、小红书封面、聊天截图都可以。<br>
+<b>Hand a picture to your agent, wake it up, and get back a polished animated loop.</b> Photos, portraits, posters, illustrations, logos, charts, memes, social covers and chat screenshots all work.
 
-</td>
-<td width="50%" valign="top">
+<a href="https://lemomo-ai.github.io/lemo-wake/"><img src="https://img.shields.io/badge/▶_See_the_gallery-看作品墙-fe6b3d?style=for-the-badge" alt="See the gallery"></a>
+<a href="https://github.com/lemomo-ai/lemo-wake"><img src="https://img.shields.io/github/stars/lemomo-ai/lemo-wake?style=for-the-badge&amp;logo=github&amp;label=lemo-wake&amp;color=d4b064" alt="lemo-wake on GitHub"></a>
 
-**[GitHub Pick](https://github.com/lemomo-ai/github-pick)** &nbsp;<img src="https://img.shields.io/github/stars/lemomo-ai/github-pick?style=flat-square&label=%E2%98%85&color=d4b064" alt="stars" align="top"><br>
-想快速摸清一个领域有什么好东西？它扫描开源全景、挑出真正能打的项目，铺成一张一眼可读的看板。<br>
-<sub>Want to know what's good in a field? It scans the open-source landscape, ranks the standout projects, and lays them out on one board.</sub>
+<img src="assets/divider-omcp.svg" width="100%" alt="">
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+## 🧩 Open MCP Apps
 
-**[Doc Atlas](https://github.com/lemomo-ai/doc-atlas)** &nbsp;<img src="https://img.shields.io/github/stars/lemomo-ai/doc-atlas?style=flat-square&label=%E2%98%85&color=d4b064" alt="stars" align="top"><br>
-被一堆散落的文档淹没？它把它们合成一块面板，炼出关键结论，每个来源都可追溯。<br>
-<sub>Drowning in scattered documents? It merges them into one board, distills the key points, and keeps every source traceable.</sub>
+<a href="https://github.com/2nd1st/open-mcp-apps"><img src="assets/card-omcp.svg" width="100%" alt="Open MCP Apps：AI即时生成APP的新模式。"></a>
 
-</td>
-<td width="50%" valign="top">
+<b>持久、可交互的 MCP 应用：AI 做一次，你和它都能反复用，数据比对话活得更久。</b>附引擎、22 个应用的应用商店，以及托管版 openmcp.app。<br>
+<b>Persistent, interactive MCP apps: your AI builds one once, and you both keep using it.</b> The data outlives the chat. Comes with the engine, a 22-app store and the hosted openmcp.app.
 
-**[Open MCP Apps](https://github.com/2nd1st/open-mcp-apps)** &nbsp;<img src="https://img.shields.io/github/stars/2nd1st/open-mcp-apps?style=flat-square&label=%E2%98%85&color=d4b064" alt="stars" align="top"> &nbsp;<sub>贡献者 · Contributor</sub><br>
-持久、可交互的 MCP 应用：AI 做一次，你和它都能反复用，数据比对话活得更久。附引擎、22 个应用的应用商店，以及托管版 openmcp.app。<br>
-<sub>Persistent, interactive MCP Apps for any MCP host: the AI builds an app once, you both reuse it, and the data outlives the conversation. Ships an engine, a 22-app store and a hosted version at openmcp.app.</sub>
+<a href="https://github.com/2nd1st/open-mcp-apps"><img src="https://img.shields.io/github/stars/2nd1st/open-mcp-apps?style=for-the-badge&amp;logo=github&amp;label=Open%20MCP%20Apps&amp;color=d4b064" alt="Open MCP Apps on GitHub"></a>
+<a href="https://openmcp.app"><img src="https://img.shields.io/badge/▶_Try_the_app-openmcp.app-1f6f5f?style=for-the-badge" alt="Try the app"></a>
 
-</td>
-</tr>
-</table>
+<img src="assets/divider-end.svg" width="100%" alt="">
 
----
-
-<div align="center">
-
-⭐ 如果这些工具帮到了你，一颗 star 就是最大的鼓励——谢谢你来过。<br>
-⭐ If any of these are useful, a star means a lot — thanks for stopping by.
-
-<a href="https://x.com/lemomo_ai">X · @lemomo_ai</a>
-
-</div>
+<a href="https://x.com/lemomo_ai"><img src="assets/footer.svg" width="100%" alt="如果这些项目帮到了你，一颗 star 就是最大的鼓励，谢谢你来过。 If any of these help you, a star means a lot. Thanks for stopping by. X @lemomo_ai"></a>
