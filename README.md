@@ -31,10 +31,10 @@ Staying curious in the AI era. I build open-source tools to help more people exp
 
 ## 🎬 New · Lemo-Opuscar
 
-<a href="https://lemomo-ai.github.io/lemo-opuscar/"><img src="https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/main/docs/cover.jpg" alt="Lemo-Opuscar: 39 film styles"></a>
+<a href="https://lemomo-ai.github.io/lemo-opuscar/"><img src="assets/lemo-opuscar-banner.png" alt="Lemo-Opuscar: 43 film styles"></a>
 
-**39 种影片风格，每种都配一支我用 Claude Opus 5.5 纯代码做出来的短片。** 附风格提示词、导演和技术指南：选一个风格，说出你想拍的内容，剩下交给 agent。<br>
-**39 film styles, each with a short film I made entirely in code with Claude Opus 5.5.** Style prompts plus directing and technique guides: pick a style, say what you want to make, and let your agent direct.
+**43 种影片风格，每种都配一支我用 Claude Opus 5.5 纯代码做出来的短片。** 附风格提示词、导演和技术指南：选一个风格，说出你想拍的内容，剩下交给 agent。<br>
+**43 film styles, each with a short film I made entirely in code with Claude Opus 5.5.** Style prompts plus directing and technique guides: pick a style, say what you want to make, and let your agent direct.
 
 <a href="https://lemomo-ai.github.io/lemo-opuscar/"><img src="https://img.shields.io/badge/▶_Watch_the_gallery-看图鉴-8e1b1b?style=for-the-badge" alt="Watch the gallery"></a>
 <a href="https://github.com/lemomo-ai/lemo-opuscar"><img src="https://img.shields.io/github/stars/lemomo-ai/lemo-opuscar?style=for-the-badge&logo=github&label=Lemo-Opuscar&color=d4b064" alt="Lemo-Opuscar on GitHub"></a>
