@@ -44,6 +44,18 @@
 <a href="https://lemomo-ai.github.io/lemo-wake/"><img src="https://img.shields.io/badge/▶_See_the_gallery-看作品墙-fe6b3d?style=for-the-badge" alt="See the gallery"></a>
 <a href="https://github.com/lemomo-ai/lemo-wake"><img src="https://img.shields.io/github/stars/lemomo-ai/lemo-wake?style=for-the-badge&amp;logo=github&amp;label=lemo-wake&amp;color=d4b064" alt="lemo-wake on GitHub"></a>
 
+<img src="assets/divider-stampy.svg" width="100%" alt="">
+
+## 🟥 Stampy · 小章
+
+<a href="https://github.com/lemomo-ai/lemo-stampy"><img src="assets/card-stampy.svg" width="100%" alt="Stampy · 小章：给复印件，盖个小小的章。"></a>
+
+<b>在预览里点一下，就给复印件盖上“仅供××使用，他用无效”。</b>原件不动，另存一份。证件复印件上全是你的个人信息，交出去之前，写清楚只给谁用。<br>
+<b>Click once in Preview to stamp "For XX use only" on a copy.</b> Your original stays untouched. Your copies carry your personal details, so mark who they're for before you hand them over.
+
+<a href="https://github.com/lemomo-ai/lemo-stampy"><img src="https://img.shields.io/badge/▶_Free_download-免费下载-d2402e?style=for-the-badge" alt="Free download"></a>
+<a href="https://github.com/lemomo-ai/lemo-stampy"><img src="https://img.shields.io/github/stars/lemomo-ai/lemo-stampy?style=for-the-badge&amp;logo=github&amp;label=Stampy&amp;color=d4b064" alt="Stampy on GitHub"></a>
+
 <img src="assets/divider-omcp.svg" width="100%" alt="">
 
 ## 🧩 Open MCP Apps
