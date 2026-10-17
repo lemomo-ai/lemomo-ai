@@ -4,7 +4,7 @@
 <b>Programmer and indie developer. I turn methods that truly work into open-source projects, so everyone can get better results with AI.</b>
 
 <a href="https://github.com/lemomo-ai?tab=repositories"><img src="https://img.shields.io/github/stars/lemomo-ai?style=for-the-badge&amp;logo=github&amp;label=total%20stars&amp;color=d4b064" alt="total stars"></a>
-<a href="#-lemo-opuscar"><img src="https://img.shields.io/badge/Open_source-4_projects-f2cf1d?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="4 open-source projects"></a>
+<a href="#-lemo-opuscar"><img src="https://img.shields.io/badge/Open_source-5_projects-f2cf1d?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="5 open-source projects"></a>
 <a href="https://github.com/lemomo-ai?tab=followers"><img src="https://img.shields.io/github/followers/lemomo-ai?style=for-the-badge&amp;logo=github&amp;label=followers&amp;color=fe6b3d" alt="followers"></a>
 <a href="https://x.com/lemomo_ai"><img src="https://img.shields.io/badge/@lemomo__ai-000000?style=for-the-badge&amp;logo=x&amp;logoColor=white" alt="X"></a>
 
@@ -20,18 +20,6 @@
 <a href="https://lemomo-ai.github.io/lemo-opuscar/"><img src="https://img.shields.io/badge/▶_Watch_the_gallery-看图鉴-8e1b1b?style=for-the-badge" alt="Watch the gallery"></a>
 <a href="https://github.com/lemomo-ai/lemo-opuscar"><img src="https://img.shields.io/github/stars/lemomo-ai/lemo-opuscar?style=for-the-badge&amp;logo=github&amp;label=Lemo-Opuscar&amp;color=d4b064" alt="Lemo-Opuscar on GitHub"></a>
 
-<img src="assets/divider-mod.svg" width="100%" alt="">
-
-## 🍋 lemo-mod
-
-<a href="https://github.com/lemomo-ai/lemo-mod"><img src="assets/card-mod.svg" width="100%" alt="lemo-mod：21种UI自选，搭配整套安全实用功能。"></a>
-
-<b>一键给 Claude Code 换上新风格：21 套风格，终端和桌面 App 都能用。</b>不只换皮：面板、用量横条、消息编号、写周报、番茄钟、会话小结等 16 个 mod，按需打开。更多功能持续更新中。<br>
-<b>Re-skin Claude Code in one click: 21 styles for the terminal and the desktop app.</b> Plus 16 mods like panels, usage bars, weekly reports, a focus timer and session recaps, on when needed.
-
-<a href="https://lemomo-ai.github.io/lemo-mod/"><img src="https://img.shields.io/badge/▶_See_every_style-看风格库-f2cf1d?style=for-the-badge" alt="See every style"></a>
-<a href="https://github.com/lemomo-ai/lemo-mod"><img src="https://img.shields.io/github/stars/lemomo-ai/lemo-mod?style=for-the-badge&amp;logo=github&amp;label=lemo-mod&amp;color=d4b064" alt="lemo-mod on GitHub"></a>
-
 <img src="assets/divider-wake.svg" width="100%" alt="">
 
 ## 📸 lemo-wake
@@ -43,6 +31,18 @@
 
 <a href="https://lemomo-ai.github.io/lemo-wake/"><img src="https://img.shields.io/badge/▶_See_the_gallery-看作品墙-fe6b3d?style=for-the-badge" alt="See the gallery"></a>
 <a href="https://github.com/lemomo-ai/lemo-wake"><img src="https://img.shields.io/github/stars/lemomo-ai/lemo-wake?style=for-the-badge&amp;logo=github&amp;label=lemo-wake&amp;color=d4b064" alt="lemo-wake on GitHub"></a>
+
+<img src="assets/divider-mod.svg" width="100%" alt="">
+
+## 🍋 lemo-mod
+
+<a href="https://github.com/lemomo-ai/lemo-mod"><img src="assets/card-mod.svg" width="100%" alt="lemo-mod：21种UI自选，搭配整套安全实用功能。"></a>
+
+<b>一键给 Claude Code 换上新风格：21 套风格，终端和桌面 App 都能用。</b>不只换皮：面板、用量横条、消息编号、写周报、番茄钟、会话小结等 16 个 mod，按需打开。更多功能持续更新中。<br>
+<b>Re-skin Claude Code in one click: 21 styles for the terminal and the desktop app.</b> Plus 16 mods like panels, usage bars, weekly reports, a focus timer and session recaps, on when needed.
+
+<a href="https://lemomo-ai.github.io/lemo-mod/"><img src="https://img.shields.io/badge/▶_See_every_style-看风格库-f2cf1d?style=for-the-badge" alt="See every style"></a>
+<a href="https://github.com/lemomo-ai/lemo-mod"><img src="https://img.shields.io/github/stars/lemomo-ai/lemo-mod?style=for-the-badge&amp;logo=github&amp;label=lemo-mod&amp;color=d4b064" alt="lemo-mod on GitHub"></a>
 
 <img src="assets/divider-stampy.svg" width="100%" alt="">
 
