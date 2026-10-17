@@ -14,8 +14,8 @@
 
 <a href="https://github.com/lemomo-ai/lemo-opuscar"><img src="assets/card-opuscar.svg" width="100%" alt="Lemo-Opuscar：选个风格，agent 用代码拍成短片。"></a>
 
-<b>43 种影片风格，非视频模型，用 Claude 纯代码生成短片。</b>提供风格提示词、导演提示词与技术指南。选一个风格，说出你想拍的内容，剩下交给 agent。更多风格持续更新中。<br>
-<b>43 film styles, no video model: Claude makes short films in pure code.</b> With style, director and technical guides: pick a style, say what to shoot, and let your agent do the rest.
+<b>51 种影片风格，非视频模型，用 Claude 纯代码生成短片。</b>提供风格提示词、导演提示词与技术指南。选一个风格，说出你想拍的内容，剩下交给 agent。更多风格持续更新中。<br>
+<b>51 film styles, no video model: Claude makes short films in pure code.</b> With style, director and technical guides: pick a style, say what to shoot, and let your agent do the rest.
 
 <a href="https://lemomo-ai.github.io/lemo-opuscar/"><img src="https://img.shields.io/badge/▶_Watch_the_gallery-看图鉴-8e1b1b?style=for-the-badge" alt="Watch the gallery"></a>
 <a href="https://github.com/lemomo-ai/lemo-opuscar"><img src="https://img.shields.io/github/stars/lemomo-ai/lemo-opuscar?style=for-the-badge&amp;logo=github&amp;label=Lemo-Opuscar&amp;color=d4b064" alt="Lemo-Opuscar on GitHub"></a>
@@ -55,18 +55,6 @@
 
 <a href="https://github.com/lemomo-ai/lemo-stampy"><img src="https://img.shields.io/badge/▶_Free_download-免费下载-d2402e?style=for-the-badge" alt="Free download"></a>
 <a href="https://github.com/lemomo-ai/lemo-stampy"><img src="https://img.shields.io/github/stars/lemomo-ai/lemo-stampy?style=for-the-badge&amp;logo=github&amp;label=Stampy&amp;color=d4b064" alt="Stampy on GitHub"></a>
-
-<img src="assets/divider-omcp.svg" width="100%" alt="">
-
-## 🧩 Open MCP Apps
-
-<a href="https://github.com/2nd1st/open-mcp-apps"><img src="assets/card-omcp.svg" width="100%" alt="Open MCP Apps：AI即时生成APP的新模式。"></a>
-
-<b>持久、可交互的 MCP 应用：AI 做一次，你和它都能反复用，数据比对话活得更久。</b>附引擎、22 个应用的应用商店，以及托管版 openmcp.app。<br>
-<b>Persistent, interactive MCP apps: your AI builds one once, and you both keep using it.</b> The data outlives the chat. Comes with the engine, a 22-app store and the hosted openmcp.app.
-
-<a href="https://github.com/2nd1st/open-mcp-apps"><img src="https://img.shields.io/github/stars/2nd1st/open-mcp-apps?style=for-the-badge&amp;logo=github&amp;label=Open%20MCP%20Apps&amp;color=d4b064" alt="Open MCP Apps on GitHub"></a>
-<a href="https://openmcp.app"><img src="https://img.shields.io/badge/▶_Try_the_app-openmcp.app-1f6f5f?style=for-the-badge" alt="Try the app"></a>
 
 <img src="assets/divider-end.svg" width="100%" alt="">
 
