@@ -1,10 +1,10 @@
 <a href="https://x.com/lemomo_ai"><img src="assets/header.svg" width="100%" alt="Lemomo · 帮每个人都能用好 AI，让每一颗星星都能闪耀。Helping everyone use AI well, so every star can shine."></a>
 
-<b>程序员，独立开发者。致力于分享真正好用的方法做成开源项目，让每个人都能用 AI 得到更好的结果。</b><br>
-<b>Programmer and indie developer. I turn methods that truly work into open-source projects, so everyone can get better results with AI.</b>
+<b>程序员，独立开发者。致力于把真正好用的方法做成免费的项目，让每个人都能用 AI 得到更好的结果。</b><br>
+<b>Programmer and indie developer. I turn methods that truly work into free projects, so everyone can get better results with AI.</b>
 
 <a href="https://github.com/lemomo-ai?tab=repositories"><img src="https://img.shields.io/github/stars/lemomo-ai?style=for-the-badge&amp;logo=github&amp;label=total%20stars&amp;color=d4b064" alt="total stars"></a>
-<a href="#-lemo-opuscar"><img src="https://img.shields.io/badge/Open_source-5_projects-f2cf1d?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="5 open-source projects"></a>
+<a href="#-lemo-opuscar"><img src="https://img.shields.io/badge/Projects-5-f2cf1d?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="5 projects"></a>
 <a href="https://github.com/lemomo-ai?tab=followers"><img src="https://img.shields.io/github/followers/lemomo-ai?style=for-the-badge&amp;logo=github&amp;label=followers&amp;color=fe6b3d" alt="followers"></a>
 <a href="https://x.com/lemomo_ai"><img src="https://img.shields.io/badge/@lemomo__ai-000000?style=for-the-badge&amp;logo=x&amp;logoColor=white" alt="X"></a>
 
