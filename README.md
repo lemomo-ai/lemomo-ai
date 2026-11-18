@@ -4,7 +4,7 @@
 <b>Programmer and indie developer. I turn methods that truly work into free projects, so everyone can get better results with AI.</b>
 
 <a href="https://github.com/lemomo-ai?tab=repositories"><img src="https://img.shields.io/github/stars/lemomo-ai?style=for-the-badge&amp;logo=github&amp;label=total%20stars&amp;color=d4b064" alt="total stars"></a>
-<a href="#-lemo-opuscar"><img src="https://img.shields.io/badge/Projects-5-f2cf1d?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="5 projects"></a>
+<a href="#-lemo-opuscar"><img src="https://img.shields.io/badge/Projects-6-f2cf1d?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="6 projects"></a>
 <a href="https://github.com/lemomo-ai?tab=followers"><img src="https://img.shields.io/github/followers/lemomo-ai?style=for-the-badge&amp;logo=github&amp;label=followers&amp;color=fe6b3d" alt="followers"></a>
 <a href="https://x.com/lemomo_ai"><img src="https://img.shields.io/badge/@lemomo__ai-000000?style=for-the-badge&amp;logo=x&amp;logoColor=white" alt="X"></a>
 
@@ -19,6 +19,18 @@
 
 <a href="https://lemomo-ai.github.io/lemo-opuscar/"><img src="https://img.shields.io/badge/▶_Watch_the_gallery-看图鉴-8e1b1b?style=for-the-badge" alt="Watch the gallery"></a>
 <a href="https://github.com/lemomo-ai/lemo-opuscar"><img src="https://img.shields.io/github/stars/lemomo-ai/lemo-opuscar?style=for-the-badge&amp;logo=github&amp;label=Lemo-Opuscar&amp;color=d4b064" alt="Lemo-Opuscar on GitHub"></a>
+
+<img src="assets/divider-animi.svg" width="100%" alt="">
+
+## 🧸 lemo-animi
+
+<a href="https://github.com/lemomo-ai/lemo-animi"><img src="assets/card-animi.svg" width="100%" alt="lemo-animi：一句话，做一支定格动画。"></a>
+
+<b>一句话，做一支定格动画短片：生图负责像，代码负责动。</b>八种材质，它自己写故事、生图、逐格动画、配乐和拟音，再打开审片台等你写意见。用 Codex 做片，Claude Code 也能用。<br>
+<b>Stop-motion shorts from one line: images make it look right, code makes it move.</b> Eight materials. It writes, draws, animates frame by frame, scores the film and opens a review page for your notes.
+
+<a href="https://lemomo-ai.github.io/lemo-animi/"><img src="https://img.shields.io/badge/▶_Watch_the_films-看样片-2f7d6c?style=for-the-badge" alt="Watch the films"></a>
+<a href="https://github.com/lemomo-ai/lemo-animi"><img src="https://img.shields.io/github/stars/lemomo-ai/lemo-animi?style=for-the-badge&amp;logo=github&amp;label=lemo-animi&amp;color=d4b064" alt="lemo-animi on GitHub"></a>
 
 <img src="assets/divider-wake.svg" width="100%" alt="">
 
